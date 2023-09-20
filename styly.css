@@ -1,0 +1,51 @@
+body{
+    background: #1d2630;
+}
+
+
+*{
+    color: #fff;
+}
+
+#Update{
+    display: none;
+}
+
+ul {
+  border-radius: 10px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #1d2650;
+  }
+
+  li {
+    float: left;
+  }
+
+  li a {
+    border-radius: 10px;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 20px 20px;
+    text-decoration: none;
+  }
+
+  li a:hover {
+    background-color: #10152b;
+  }
+
+  #nadpis{
+    margin-top: 155px;
+    margin-bottom: 300px;
+  }
+
+  .pojistenci{
+    background-color: #1d2630;
+  }
+
+  .nav{
+    margin: 5px 5px;
+  }
